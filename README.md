@@ -5,7 +5,7 @@
 </div>
 
 ## 🌐 Connect with Me
-[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=32&animation=glow&showText=true&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjoanacsilva19%2F)](https://www.linkedin.com/in/joanacsilva19/) [![leetcode](https://www.readmecodegen.com/api/social-icon?name=leetcode&size=32&animation=glow&showText=true&link=https://www.linkedin.com/in/joanacsilva19/)](leetcode.com/joanasilva19)
+[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=32&animation=glow&showText=true&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjoanacsilva19%2F)](https://www.linkedin.com/in/joanacsilva19/) [![leetcode](https://www.readmecodegen.com/api/social-icon?name=leetcode&size=32&animation=glow&showText=true&link=https://www.linkedin.com/in/joanacsilva19/)](https://leetcode.com/joanasilva19)
 
 
 ## 🛠️ Skills & Technologies
