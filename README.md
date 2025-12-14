@@ -1,1 +1,26 @@
-![Metrics](https://metrics.lecoq.io/joanacsilva19?template=classic&isocalendar=1&leetcode=1&fortune=1&languages=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction=false&introduction.title=true&leetcode=false&leetcode.user=joanasilva19&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&fortune=false&config.timezone=Europe%2FLisbon)
+<div align="center">
+  
+# Hi 👋, I'm Joana Silva!
+### A Computers and Informatic Engineering student!
+</div>
+
+## 🌐 Connect with Me
+[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=32&animation=glow&showText=true&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjoanacsilva19%2F)](https://www.linkedin.com/in/joanacsilva19/) [![leetcode](https://www.readmecodegen.com/api/social-icon?name=leetcode&size=32&animation=glow&showText=true&link=https://www.linkedin.com/in/joanacsilva19/)](leetcode.com/joanasilva19)
+
+
+## 🛠️ Skills & Technologies
+[![python](https://www.readmecodegen.com/api/social-icon?name=python&size=32&animation=glow&showText=true&link=github.com%2Fjoanacsilva19)](github.com/joanacsilva19) [![java](https://www.readmecodegen.com/api/social-icon?name=java&size=32&animation=glow&color=%23f59e0b&showText=true&link=github.com%2Fjoanacsilva19)](github.com/joanacsilva19) [![javascript](https://www.readmecodegen.com/api/social-icon?name=javascript&size=32&animation=glow&showText=true&link=github.com%2Fjoanacsilva19)](github.com/joanacsilva19) [![html5](https://www.readmecodegen.com/api/social-icon?name=html5&size=32&animation=glow&color=%23ef4444&showText=true&link=github.com%2Fjoanacsilva19)](github.com/joanacsilva19) [![css3](https://www.readmecodegen.com/api/social-icon?name=css3&size=32&animation=glow&showText=true&link=github.com%2Fjoanacsilva19)](github.com/joanacsilva19) [![sqlite](https://www.readmecodegen.com/api/social-icon?name=sqlite&size=32&animation=glow&showText=true&link=github.com%2Fjoanacsilva19)](github.com/joanacsilva19) [![linux](https://www.readmecodegen.com/api/social-icon?name=linux&size=32&animation=glow&showText=true&link=github.com%2Fjoanacsilva19)](github.com/joanacsilva19) [![github](https://www.readmecodegen.com/api/social-icon?name=github&size=32&animation=glow&color=%23ffffff&showText=true&link=github.com%2Fjoanacsilva19)](github.com/joanacsilva19)
+
+</div>
+
+## 📊 GitHub Stats & Activity
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=joanacsilva19&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joanacsilva19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+
+
+
+
